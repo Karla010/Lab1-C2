@@ -1,0 +1,5 @@
+Este programa está diseñado para resolver el problema de obtener información
+en tiempo real sobre el estado de un vuelo
+en un aeropuerto. Los pasajeros pueden ingresar el código de su vuelo, 
+y la aplicación mostrará información clave como el origen, destino, hora de salida,
+llegada, estado actual (a tiempo, retrasado o cancelado), y la puerta de embarque.
